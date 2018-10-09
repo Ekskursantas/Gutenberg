@@ -5,4 +5,4 @@ Group:
 Zygimantas Pranka, 
 Plamen Getsov, 
 Emil Klausen, 
-Diana Strele, 
+Diana Strele.
