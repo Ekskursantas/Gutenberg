@@ -1,0 +1,5 @@
+stepdefs\TestRunner.class
+databaseAccess\LocalConnection.class
+databaseAccess\TestDBMapperSQL.class
+mongoUnitTests\MongoUnitTests.class
+databaseAccess\TestPopulateDatabase.class
